@@ -1,0 +1,10 @@
+C:\Users\Ярослав\source\repos\PW1_3\PW1_3\bin\Debug\PW1_3.exe.config
+C:\Users\Ярослав\source\repos\PW1_3\PW1_3\bin\Debug\PW1_3.exe
+C:\Users\Ярослав\source\repos\PW1_3\PW1_3\bin\Debug\PW1_3.pdb
+C:\Users\Ярослав\source\repos\PW1_3\PW1_3\obj\Debug\PW1_3.csprojAssemblyReference.cache
+C:\Users\Ярослав\source\repos\PW1_3\PW1_3\obj\Debug\PW1_3.Form1.resources
+C:\Users\Ярослав\source\repos\PW1_3\PW1_3\obj\Debug\PW1_3.Properties.Resources.resources
+C:\Users\Ярослав\source\repos\PW1_3\PW1_3\obj\Debug\PW1_3.csproj.GenerateResource.cache
+C:\Users\Ярослав\source\repos\PW1_3\PW1_3\obj\Debug\PW1_3.csproj.CoreCompileInputs.cache
+C:\Users\Ярослав\source\repos\PW1_3\PW1_3\obj\Debug\PW1_3.exe
+C:\Users\Ярослав\source\repos\PW1_3\PW1_3\obj\Debug\PW1_3.pdb
