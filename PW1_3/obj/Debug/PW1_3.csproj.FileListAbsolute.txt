@@ -8,3 +8,14 @@ C:\Users\Ярослав\source\repos\PW1_3\PW1_3\obj\Debug\PW1_3.csproj.Generate
 C:\Users\Ярослав\source\repos\PW1_3\PW1_3\obj\Debug\PW1_3.csproj.CoreCompileInputs.cache
 C:\Users\Ярослав\source\repos\PW1_3\PW1_3\obj\Debug\PW1_3.exe
 C:\Users\Ярослав\source\repos\PW1_3\PW1_3\obj\Debug\PW1_3.pdb
+C:\Users\Ярослав\source\repos\PW1.3\PW1_3\obj\Debug\PW1_3.csprojAssemblyReference.cache
+C:\Users\Ярослав\source\repos\PW1.3\PW1_3\obj\Debug\PW1_3.Form1.resources
+C:\Users\Ярослав\source\repos\PW1.3\PW1_3\obj\Debug\PW1_3.csproj.GenerateResource.cache
+C:\Users\Ярослав\source\repos\PW1.3\PW1_3\obj\Debug\PW1_3.csproj.CoreCompileInputs.cache
+C:\Users\Ярослав\source\repos\PW1.3\PW1_3\obj\Debug\PW1_3.Form2.resources
+C:\Users\Ярослав\source\repos\PW1.3\PW1_3\bin\Debug\BOL.exe.config
+C:\Users\Ярослав\source\repos\PW1.3\PW1_3\bin\Debug\BOL.exe
+C:\Users\Ярослав\source\repos\PW1.3\PW1_3\bin\Debug\BOL.pdb
+C:\Users\Ярослав\source\repos\PW1.3\PW1_3\obj\Debug\BOL.Properties.Resources.resources
+C:\Users\Ярослав\source\repos\PW1.3\PW1_3\obj\Debug\BOL.exe
+C:\Users\Ярослав\source\repos\PW1.3\PW1_3\obj\Debug\BOL.pdb

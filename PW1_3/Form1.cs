@@ -1,11 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.ComponentModel;
-using System.Data;
-using System.Drawing;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using System.Windows.Forms;
 
 namespace PW1_3
@@ -15,16 +8,6 @@ namespace PW1_3
         public Form1()
         {
             InitializeComponent();
-        }
-
-        private void textBox1_TextChanged(object sender, EventArgs e)
-        {
-
-        }
-
-        private void textBox2_TextChanged(object sender, EventArgs e)
-        {
-
         }
 
         private void button1_Click(object sender, EventArgs e)
@@ -44,7 +27,7 @@ namespace PW1_3
 
         private void button4_Click(object sender, EventArgs e)
         {
-            label1.Text = label1.Text + " SS" + Convert.ToString(subtraction(Convert.ToDouble(textBox1.Text), Convert.ToDouble(textBox2.Text)));
+            label1.Text = label1.Text + " " + Convert.ToString(subtraction(Convert.ToDouble(textBox1.Text), Convert.ToDouble(textBox2.Text)));
         }
 
         public static double multiplaication(double a, double b)    // умножение
@@ -67,9 +50,10 @@ namespace PW1_3
             return a - b;
         }
 
-        private void Form1_Load(object sender, EventArgs e)
+        private void button5_Click(object sender, EventArgs e)
         {
-
+            Form2 form2 = new Form2();
+            form2.Show();
         }
     }
 }
